@@ -72,7 +72,7 @@ The basic Domain model of the Project:
 ![final Domain Diagram](https://user-images.githubusercontent.com/113366324/199558515-c03339ea-af94-493d-bd76-2638f2c2f5e0.png)
 
 
-Design of the Project (using figma):
+Project ScreenShots:
 
 ![Untitled](https://user-images.githubusercontent.com/113320191/203413248-b54e5883-6ae8-40e6-bcfa-a4290eeba341.png)
 
